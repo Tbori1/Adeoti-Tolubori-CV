@@ -5,7 +5,7 @@
 line. It is intended to be used for contact details -->
 - <adeotitoluborip@gmail.com>
 - (+234) 813-335-6333
-- [LinkedIn](http://www.linkedin.com/in/tolubori-adeoti-833a0713a
+- [LinkedIn](http://www.linkedin.com/in/tolubori-adeoti-833a0713a)
 - Lagos, Nigeria
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
