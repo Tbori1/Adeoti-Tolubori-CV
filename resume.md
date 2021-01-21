@@ -16,7 +16,7 @@ A highly analytical individual with keen interest in data analytics and data sci
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Quality Analyst Amaduke Geo Resources Nig., ltd</span> <span>2018 -- Till date</span>
+### <span>Quality Analyst Amaduke Geo Resources Nig., ltd</span> <span>2018 - Till date</span>
 
 Amaduke Geo Resources is a water solution company catering for borehole drilling, water treatment, geophysical survey/ analysis and consulting.
 
@@ -28,19 +28,19 @@ Amaduke Geo Resources is a water solution company catering for borehole drilling
  - Data interpretation and reporting 
 
 
-### <span>Quality monitoring and Scientific analyst, Niger State Environmental Protection Agency, Minna </span> <span>Dec 2016 --  Nov 2017</span>
+### <span>Quality monitoring and Scientific analyst, Niger State Environmental Protection Agency, Minna </span> <span>Dec 2016 - Nov 2017</span>
 
  - Performed quantitative and qualitative analysis on food particularly bread manufactured in the state
  - collate the data and analyse it to assist in effectively monitoring quality
  - Performed water quality analysis of sachet water (pure water) produced in Minna - ranging from microbial analysis to ion content. 
 
-### <span>Quality Control Analyst, National Salt Company of Nigeria (NASCON, Dangote Group), Oregun, Ikeja. Lagos</span> <span>Aug 2015 -- Oct 2015</span>
+### <span>Quality Control Analyst, National Salt Company of Nigeria (NASCON, Dangote Group), Oregun, Ikeja. Lagos</span> <span>Aug 2015 - Oct 2015</span>
 
  - Prepared monthly quality control data and iodine content control chart using excel
  - Carried out iodine, sulphate, chlorine, moisture content tests on salts
  - Used statistical quality control tools to ascertain whether to reject or accept a batch of product
 
-### <span>Quality Control Analyst, Dangote Agro Sacks Ltd., plot 3, Oba Akran Avenue, Ikeja, Lagos</span> <span>July 2014 -- Oct 2014</span>
+### <span>Quality Control Analyst, Dangote Agro Sacks Ltd., plot 3, Oba Akran Avenue, Ikeja, Lagos</span> <span>July 2014 - Oct 2014</span>
 
  - Monitored the quality of products from all processing units by analyzing for strength, tenacity and air flow rate of sack bags produced
  - Ensure conformity of product to costumers specification 
@@ -59,7 +59,7 @@ The project is aimed at predicting wine quality, and it involved:
 
 ## Education
 
-### <span>University of ilorin, B.Sc Industrial Chemistry</span> <span>2012 -- 2016</span>
+### <span>University of ilorin, B.Sc Industrial Chemistry</span> <span>2012 - 2016</span>
 
   - GPA 3.9
  
