@@ -4,12 +4,13 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <adeotitoluborip@gmail.com>
-- (+234) 813-3356-333
+- (+234) 813-335-6333
+- [LinkedIn](http://www.linkedin.com/in/tolubori-adeoti-833a0713a
 - Lagos, Nigeria
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-A highly analytical individual with keen interest in data analytics and data science, seeking to improve  performance and assist organaizations made informed decisions through data analytics.
+A highly analytical individual with keen interest in data analytics and data science. I have worked within the manufacturing sector, collecting data, interpreting quality trends and detecting anomaly in products from data generated during quantitative and qualitative tests, conducted on product samples using different analytic tools such as excel and also data modelling using machine learning. I am passionate about improving  performance and assisting organaizations make informed decisions through data analytics.
 
 ## Experience
 
@@ -23,20 +24,23 @@ Amaduke Geo Resources is a water solution company catering for borehole drilling
  - Perform Heavy metal test and other metal ion present in water samples
  - Conduct Physical test such as color, odor, taste, conductivity and turbidity
  - Analyze for Biochemical Oxygen Demand(B.O.D) and Chemical Oxygen Demand(C.O.D) in water
+ - Perform ANOVA to check if heavy metal content of water is within the standard limit.
  - Data interpretation and reporting 
 
 
 ### <span>Quality monitoring and Scientific analyst, Niger State Environmental Protection Agency, Minna </span> <span>Dec 2016 --  Nov 2017</span>
 
- - Performed quantitative and qualitative analysis of potassium bromate in street food particularly bread samples 
+ - Performed quantitative and qualitative analysis on food particularly bread manufactured in the state
+ - collate the data and analyse it to assist in effectively monitoring quality
  - Performed water quality analysis of sachet water (pure water) produced in Minna - ranging from microbial analysis to ion content. 
 
 ### <span>Quality Control Analyst, National Salt Company of Nigeria (NASCON, Dangote Group), Oregun, Ikeja. Lagos</span> <span>Aug 2015 -- Oct 2015</span>
 
- - Prepared monthly quality control data and iodine content chart 
- - Carried out iodine, sulphate, chlorine, moisture content tests on salts 
+ - Prepared monthly quality control data and iodine content control chart using excel
+ - Carried out iodine, sulphate, chlorine, moisture content tests on salts
+ - Used statistical quality control tools to ascertain whether to reject or accept a batch of product
 
-### <span>Quality Control Analyst, Dangote Agro Sacks Ltd., plot 3, Oba Akran Avenue, Ikeja, Lagos</span> <span>July 2014 --Oct 2014</span>
+### <span>Quality Control Analyst, Dangote Agro Sacks Ltd., plot 3, Oba Akran Avenue, Ikeja, Lagos</span> <span>July 2014 -- Oct 2014</span>
 
  - Monitored the quality of products from all processing units by analyzing for strength, tenacity and air flow rate of sack bags produced
  - Ensure conformity of product to costumers specification 
