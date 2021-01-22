@@ -84,9 +84,9 @@ The project is aimed at predicting wine quality, and it involved:
  
 ## Certifications 
 
- - Udemy SQL Masterclass: SQL for Data Analytics, 2020
- - Udemy Data Analytics Essentials with Power BI, 2020
- - Introduction to machine learning by AI Business school/Global AI Hub, 2020
+ - Udemy SQL masterclass: SQL for data analytics, 2020
+ - Udemy data analytics essentials with power BI, 2020
+ - Introduction to machine learning by AI Business School/Global AI Hub, 2020
  
 ## Volunteering
  
