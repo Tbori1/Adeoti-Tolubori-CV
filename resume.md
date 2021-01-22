@@ -10,7 +10,8 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-A highly analytical individual with keen interest in data analytics and data science. I have worked within the manufacturing sector, collecting data, interpreting quality trends and detecting anomaly in products from data generated during quantitative and qualitative tests, conducted on product samples using different analytic tools such as excel and also data modelling using machine learning. I am passionate about improving  performance and assisting organaizations make informed decisions through data analytics.
+A highly analytical individual with keen interest in data analytics and data science. Although  I have a background in Industrial Chemistry, my recent works have drawn me towards data analytics, I am beginning to enjoy this than laboratory bench work. 
+I have worked within the manufacturing sector, collecting data, interpreting quality trends and detecting anomaly in products from data generated during quantitative and qualitative tests, conducted on product samples using different analytic tools such as excel and also data modelling using machine learning. I am passionate about improving  performance and assisting organaizations make informed decisions through data analytics.
 
 ## Experience
 
