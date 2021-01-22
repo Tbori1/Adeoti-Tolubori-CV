@@ -10,8 +10,8 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-I am ahighly analytical person with a keen interest in data analytics and data science. I studied Industial Chemistry at undergraduate and postgraduate levels. However my recent works have drawn me towards data analytics, I now enjoy this more than laboratory bench work. 
-I have worked in the manufacturing sector; collecting data, interpreting quality trends and detecting anomaly in products from data generated during quantitative and qualitative tests, conducted on product samples using different analytic tools such as excel and data modelling using machine learning. I am passionate about improving  performance and helping organaizations make informed decisions through data analytics.
+I am a highly analytical person with a keen interest in data analytics and data science. I studied Industial Chemistry at undergraduate and postgraduate levels. However my recent works have drawn me towards data analytics, I now enjoy this more than laboratory bench work. 
+I have worked in the manufacturing sector; collecting data, interpreting quality trends and detecting anomaly in products from data generated during quantitative and qualitative tests. I have used different analytic tools such as excel,SQL, power bi, tableau and data modelling using machine learning. I am passionate about improving  performance and helping organaizations make informed decisions through data analytics.
 
 ## Skills
 
@@ -27,11 +27,11 @@ I have worked in the manufacturing sector; collecting data, interpreting quality
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-**Quality Analyst,** _2018 - present_
+**Quality Analyst,** _2018 - Present_
 
 <span>Amaduke Geo-Resources Nigeria ltd</span>
 
-Amaduke Geo-Resources is a water solution company with interest in water plant construction, geo-physical survey and analysis, borehole drilling and water treatment.
+Amaduke Geo-Resources is a water solution company with interest in water plant construction, geophysical survey and analysis, borehole drilling and water treatment.
 
  - Carry out microbial analysis on water samples
  - Perform heavy metal test and other metal ion present in water samples
