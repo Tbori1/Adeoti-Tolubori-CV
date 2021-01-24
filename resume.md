@@ -16,7 +16,8 @@ I have worked in the manufacturing sector; collecting data, interpreting quality
 ## Skills
 
  - Ability to analyze and interpret big data
- - Data modeling and forecasting using machine learning 
+ - Data modeling and forecasting using machine learning
+ - Python programming language
  - Data analysis with Tableau
  - Database query using SQL
  - Excellent communication and attention to detail
