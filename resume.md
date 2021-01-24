@@ -1,15 +1,10 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Adeoti Tolubori Priscilla
 
-<!-- The unordered list immediately after the h1 will be formatted on a single
-line. It is intended to be used for contact details -->
 - <adeotitoluborip@gmail.com>
 - (+234) 813-335-6333
 - [LinkedIn](http://www.linkedin.com/in/tolubori-adeoti-833a0713a)
 - Lagos, Nigeria
 
-<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
-is intended to be used for a short summary. -->
 I am a highly analytical person with a keen interest in data analytics and data science. I studied Industial Chemistry at undergraduate and postgraduate levels. However my recent works have drawn me towards data analytics, I now enjoy this more than laboratory bench work. 
 I have worked in the manufacturing sector; collecting data, interpreting quality trends and detecting anomaly in products from data generated during quantitative and qualitative tests. I have used different analytic tools such as excel,SQL, power BI, tableau and data modelling using machine learning. I am passionate about improving  performance and helping organizations make informed decisions through data analytics.
 
@@ -26,8 +21,6 @@ I have worked in the manufacturing sector; collecting data, interpreting quality
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
 **Quality Analyst,** _2018 - Present_
 
 <span>Amaduke Geo-Resources Nigeria ltd</span>
