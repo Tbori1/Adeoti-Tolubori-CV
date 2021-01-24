@@ -45,7 +45,7 @@ Amaduke Geo-Resources is a water solution company with interest in water plant c
 <span>Niger State Environmental Protection Agency, Minna </span> 
 
  - Performed quantitative and qualitative analysis on food particularly bread manufactured in the state
- - collate the data and analyse it to assist in effectively monitoring quality
+ - Collate the data and analyse it to assist in effectively monitoring quality
  - Performed water quality analysis of sachet water (pure water) produced in Minna - ranging from microbial analysis to ion content. 
 
 **Quality Control Analyst,** _August 2015 - October 2015_
@@ -71,8 +71,8 @@ Amaduke Geo-Resources is a water solution company with interest in water plant c
 The project is aimed at predicting wine quality, and it involved:
 
    - Exploratory data analysis
-   - data pre-processing such as data cleaning, checking mising values, outliers and scaling.
-   - data modeling and compare model performance among 5 models
+   - Data pre-processing such as data cleaning, checking mising values, outliers and scaling.
+   - Data modeling and compare model performance among 5 models
    - Gradient boost came up as the best model among the models tested with an accuracy of 82%.
 
 ## Education
